@@ -19,8 +19,10 @@ a
 `printf("sdsd);`
 
 ```python
-print("sdssdsd")```
+print("sdssdsd")
+```
 
-`sdsd
+```sdsd
 sdsdad
-w`
+w
+```
