@@ -14,4 +14,4 @@ a
 - ㅎ더2
 - 아ㄴㅇㄹㄴ
 
-[link](http://www.donga.ac.kr)
+[동아대링크](http://www.donga.ac.kr)
