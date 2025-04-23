@@ -16,7 +16,7 @@ a
 
 [동아대링크](http://www.donga.ac.kr)
 
-'printf("sdsd);'
+`printf("sdsd);`
 
-'''python
+```python
 print("sdssdsd")
