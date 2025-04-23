@@ -15,3 +15,8 @@ a
 - 아ㄴㅇㄹㄴ
 
 [동아대링크](http://www.donga.ac.kr)
+
+'printf("sdsd);'
+
+'''python
+print("sdssdsd")
